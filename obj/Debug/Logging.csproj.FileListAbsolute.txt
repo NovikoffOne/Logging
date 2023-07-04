@@ -1,0 +1,8 @@
+D:\CSharp\IUNIOR\DZ\Logging\bin\Debug\Logging.exe.config
+D:\CSharp\IUNIOR\DZ\Logging\bin\Debug\Logging.exe
+D:\CSharp\IUNIOR\DZ\Logging\bin\Debug\Logging.pdb
+D:\CSharp\IUNIOR\DZ\Logging\obj\Debug\Logging.csproj.AssemblyReference.cache
+D:\CSharp\IUNIOR\DZ\Logging\obj\Debug\Logging.csproj.SuggestedBindingRedirects.cache
+D:\CSharp\IUNIOR\DZ\Logging\obj\Debug\Logging.csproj.CoreCompileInputs.cache
+D:\CSharp\IUNIOR\DZ\Logging\obj\Debug\Logging.exe
+D:\CSharp\IUNIOR\DZ\Logging\obj\Debug\Logging.pdb
